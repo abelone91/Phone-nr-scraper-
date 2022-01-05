@@ -1,2 +1,3 @@
-# Trick-or-treat-
-Projects while learning py 
+# Tool to scrape copied text for norwegian phone number 
+# modules used: pyperclip and re 
+# Regex can be better
